@@ -43,9 +43,6 @@ For enterprise production environments, we recommend a **Hybrid Pipeline Archite
 └── data/                      # Sample telemetry data
 ```
 
-## 📌 Project Overview
-Translating low-level network telemetry logs into professional, readable Security Operations Center (SOC) incident briefs using fine-tuned causal language models.
-
 ## 📊 Data Ingestion & Imbalance Management
 - **Source Dataset:** NSL-KDD Network Intrusion Benchmark (Tavallaee et al., 2009).
 - **Causal Model:** `distilgpt2` (82M parameters, BPE vocab 50,257).
