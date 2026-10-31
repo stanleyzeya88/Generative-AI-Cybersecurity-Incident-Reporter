@@ -1,7 +1,7 @@
 # Applied Generative AI: Causal LM Fine-Tuning for Automated SOC Incident Briefing
 
 **MSc Capstone — Project #5: Generative AI Applications**  
-**Author:** Stanley Zeya  
+**Author:** Aung Ze Ya
 **Dataset:** Public NSL-KDD Network Intrusion Benchmark Dataset (N = 1,250 records; 1,000 Train / 250 Validation)  
 **Model Architecture:** Fine-Tuned DistilGPT2 (82 Million Parameters)  
 
