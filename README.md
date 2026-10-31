@@ -41,6 +41,7 @@ For enterprise production environments, we recommend a **Hybrid Pipeline Archite
 ├── requirements.txt           # Python dependencies
 ├── .gitignore                 # Excludes local model weight binaries (>100MB)
 └── data/                      # Sample telemetry data
+```
 
 ## 📊 Data Ingestion & Imbalance Management
 - **Source Dataset:** NSL-KDD Network Intrusion Benchmark (Tavallaee et al., 2009).
