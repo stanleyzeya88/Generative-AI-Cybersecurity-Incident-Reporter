@@ -1,0 +1,4 @@
+fine_tuned_distilgpt2_security/
+*.safetensors
+*.bin
+*.pth
